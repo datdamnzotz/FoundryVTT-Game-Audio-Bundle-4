@@ -1,0 +1,1208 @@
+{
+  "name": "gAudioBundle-4",
+  "title": "Game Audio Bundle 3",
+  "description": "<p>High-quality sound effects from many of the best sound recordists and designers in the World. Use them personally or commercially without attribution. Sonniss LTD.</p>",
+  "version": "1.1",
+  "minimumCoreVersion": "0.5.0",
+  "compatibleCoreVersion": "0.7.0",
+  "author": "DatDamnZotz [DatDamnZotz#7962]",
+  "packs": [
+    {
+      "name": "Game Audio Bundle 4 - Saab 99 Gl 1976",
+      "label": "Game Audio Bundle 4 - Saab 99 Gl 1976",
+      "path": "/packs/saab-99-gl-1976.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Saiga 12 12g Solid Slug",
+      "label": "Game Audio Bundle 4 - Saiga 12 12g Solid Slug",
+      "path": "/packs/saiga-12-12g-solid-slug.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sako Trg 22",
+      "label": "Game Audio Bundle 4 - Sako Trg 22",
+      "path": "/packs/sako-trg-22.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sally77 Friendly Female Robot Voice",
+      "label": "Game Audio Bundle 4 - Sally77 Friendly Female Robot Voice",
+      "path": "/packs/sally77-friendly-female-robot-voice.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Savannah Ga Ambiences",
+      "label": "Game Audio Bundle 4 - Savannah Ga Ambiences",
+      "path": "/packs/savannah-ga-ambiences.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Scene Shop Tool Box",
+      "label": "Game Audio Bundle 4 - Scene Shop Tool Box",
+      "path": "/packs/scene-shop-tool-box.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Scene Switch Transitions And Textures",
+      "label": "Game Audio Bundle 4 - Scene Switch Transitions And Textures",
+      "path": "/packs/scene-switch-transitions-and-textures.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sci Fi Book",
+      "label": "Game Audio Bundle 4 - Sci Fi Book",
+      "path": "/packs/sci-fi-book.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sci Fi Cinematic Sfx Pack",
+      "label": "Game Audio Bundle 4 - Sci Fi Cinematic Sfx Pack",
+      "path": "/packs/sci-fi-cinematic-sfx-pack.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sci Fi Fx",
+      "label": "Game Audio Bundle 4 - Sci Fi Fx",
+      "path": "/packs/sci-fi-fx.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sci Fi Weapons",
+      "label": "Game Audio Bundle 4 - Sci Fi Weapons",
+      "path": "/packs/sci-fi-weapons.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Scraps And Pieces",
+      "label": "Game Audio Bundle 4 - Scraps And Pieces",
+      "path": "/packs/scraps-and-pieces.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Scratches",
+      "label": "Game Audio Bundle 4 - Scratches",
+      "path": "/packs/scratches.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Scream",
+      "label": "Game Audio Bundle 4 - Scream",
+      "path": "/packs/scream.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Scuba Diving Equipment And Underwater Diving",
+      "label": "Game Audio Bundle 4 - Scuba Diving Equipment And Underwater Diving",
+      "path": "/packs/scuba-diving-equipment-and-underwater-diving.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Seaside Nature And Waves",
+      "label": "Game Audio Bundle 4 - Seaside Nature And Waves",
+      "path": "/packs/seaside-nature-and-waves.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sense",
+      "label": "Game Audio Bundle 4 - Sense",
+      "path": "/packs/sense.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sfx For Board Games",
+      "label": "Game Audio Bundle 4 - Sfx For Board Games",
+      "path": "/packs/sfx-for-board-games.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Shakes And Rattles",
+      "label": "Game Audio Bundle 4 - Shakes And Rattles",
+      "path": "/packs/shakes-and-rattles.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Shards",
+      "label": "Game Audio Bundle 4 - Shards",
+      "path": "/packs/shards.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sherman Tanks",
+      "label": "Game Audio Bundle 4 - Sherman Tanks",
+      "path": "/packs/sherman-tanks.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Shetland Pony Vox",
+      "label": "Game Audio Bundle 4 - Shetland Pony Vox",
+      "path": "/packs/shetland-pony-vox.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Shortwave",
+      "label": "Game Audio Bundle 4 - Shortwave",
+      "path": "/packs/shortwave.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sick 6",
+      "label": "Game Audio Bundle 4 - Sick 6",
+      "path": "/packs/sick-6.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Signal Communication",
+      "label": "Game Audio Bundle 4 - Signal Communication",
+      "path": "/packs/signal-communication.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Signal Frontiers",
+      "label": "Game Audio Bundle 4 - Signal Frontiers",
+      "path": "/packs/signal-frontiers.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Signal Interference",
+      "label": "Game Audio Bundle 4 - Signal Interference",
+      "path": "/packs/signal-interference.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Singing Bowls",
+      "label": "Game Audio Bundle 4 - Singing Bowls",
+      "path": "/packs/singing-bowls.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sirocco Sea Storm Mediterranean Sea",
+      "label": "Game Audio Bundle 4 - Sirocco Sea Storm Mediterranean Sea",
+      "path": "/packs/sirocco-sea-storm-mediterranean-sea.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Skids and Screeches Tarmac",
+      "label": "Game Audio Bundle 4 - Skids and Screeches Tarmac",
+      "path": "/packs/skids-and-screeches-tarmac.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Skoda Octavia 16 (2008)",
+      "label": "Game Audio Bundle 4 - Skoda Octavia 16 (2008)",
+      "path": "/packs/skoda-octavia-16-(2008).db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Skot Ot 64 1968",
+      "label": "Game Audio Bundle 4 - Skot Ot 64 1968",
+      "path": "/packs/skot-ot-64-1968.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Skp M42 Apc 1942",
+      "label": "Game Audio Bundle 4 - Skp M42 Apc 1942",
+      "path": "/packs/skp-m42-apc-1942.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Slush And Wet Streets",
+      "label": "Game Audio Bundle 4 - Slush And Wet Streets",
+      "path": "/packs/slush-and-wet-streets.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Small Crowds Outdoors",
+      "label": "Game Audio Bundle 4 - Small Crowds Outdoors",
+      "path": "/packs/small-crowds-outdoors.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Snacks",
+      "label": "Game Audio Bundle 4 - Snacks",
+      "path": "/packs/snacks.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Snow",
+      "label": "Game Audio Bundle 4 - Snow",
+      "path": "/packs/snow.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Soccer Sfx",
+      "label": "Game Audio Bundle 4 - Soccer Sfx",
+      "path": "/packs/soccer-sfx.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sonic Seaside",
+      "label": "Game Audio Bundle 4 - Sonic Seaside",
+      "path": "/packs/sonic-seaside.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sonic Transmission By Faunethic",
+      "label": "Game Audio Bundle 4 - Sonic Transmission By Faunethic",
+      "path": "/packs/sonic-transmission-by-faunethic.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sorcery",
+      "label": "Game Audio Bundle 4 - Sorcery",
+      "path": "/packs/sorcery.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sound Design Fx Super Pack 1",
+      "label": "Game Audio Bundle 4 - Sound Design Fx Super Pack 1",
+      "path": "/packs/sound-design-fx-super-pack-1.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sound Pack Tree",
+      "label": "Game Audio Bundle 4 - Sound Pack Tree",
+      "path": "/packs/sound-pack-tree.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sound Sculpture Vol 2",
+      "label": "Game Audio Bundle 4 - Sound Sculpture Vol 2",
+      "path": "/packs/sound-sculpture-vol-2.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sounds Of Istanbul",
+      "label": "Game Audio Bundle 4 - Sounds Of Istanbul",
+      "path": "/packs/sounds-of-istanbul.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sounds Of Le Mans Race Cars",
+      "label": "Game Audio Bundle 4 - Sounds Of Le Mans Race Cars",
+      "path": "/packs/sounds-of-le-mans-race-cars.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sounds Of New York City",
+      "label": "Game Audio Bundle 4 - Sounds Of New York City",
+      "path": "/packs/sounds-of-new-york-city.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sounds Of Senegal",
+      "label": "Game Audio Bundle 4 - Sounds Of Senegal",
+      "path": "/packs/sounds-of-senegal.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Source Collection Sfx Pack",
+      "label": "Game Audio Bundle 4 - Source Collection Sfx Pack",
+      "path": "/packs/source-collection-sfx-pack.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - South African Sirens",
+      "label": "Game Audio Bundle 4 - South African Sirens",
+      "path": "/packs/south-african-sirens.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - South India Sound Library By Faunethic",
+      "label": "Game Audio Bundle 4 - South India Sound Library By Faunethic",
+      "path": "/packs/south-india-sound-library-by-faunethic.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Spaces",
+      "label": "Game Audio Bundle 4 - Spaces",
+      "path": "/packs/spaces.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Spaceship Interiors",
+      "label": "Game Audio Bundle 4 - Spaceship Interiors",
+      "path": "/packs/spaceship-interiors.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Spanish Crowd Ambiences",
+      "label": "Game Audio Bundle 4 - Spanish Crowd Ambiences",
+      "path": "/packs/spanish-crowd-ambiences.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Spas 12 12g Solid Slug",
+      "label": "Game Audio Bundle 4 - Spas 12 12g Solid Slug",
+      "path": "/packs/spas-12-12g-solid-slug.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Special Double Bass Fx",
+      "label": "Game Audio Bundle 4 - Special Double Bass Fx",
+      "path": "/packs/special-double-bass-fx.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Spectral Density Cinematic Samples",
+      "label": "Game Audio Bundle 4 - Spectral Density Cinematic Samples",
+      "path": "/packs/spectral-density-cinematic-samples.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Spectral Line Cinematic Trailer Sounds",
+      "label": "Game Audio Bundle 4 - Spectral Line Cinematic Trailer Sounds",
+      "path": "/packs/spectral-line-cinematic-trailer-sounds.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Squeaks And Creaks",
+      "label": "Game Audio Bundle 4 - Squeaks And Creaks",
+      "path": "/packs/squeaks-and-creaks.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - St Petersburg",
+      "label": "Game Audio Bundle 4 - St Petersburg",
+      "path": "/packs/st-petersburg.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Steam Trains",
+      "label": "Game Audio Bundle 4 - Steam Trains",
+      "path": "/packs/steam-trains.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Steampunk Weapons",
+      "label": "Game Audio Bundle 4 - Steampunk Weapons",
+      "path": "/packs/steampunk-weapons.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Steps Dirt And Gravel",
+      "label": "Game Audio Bundle 4 - Steps Dirt And Gravel",
+      "path": "/packs/steps-dirt-and-gravel.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Stethoscope",
+      "label": "Game Audio Bundle 4 - Stethoscope",
+      "path": "/packs/stethoscope.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Storm, Gale And Thunderstorm",
+      "label": "Game Audio Bundle 4 - Storm, Gale And Thunderstorm",
+      "path": "/packs/storm,-gale-and-thunderstorm.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Strange Worlds",
+      "label": "Game Audio Bundle 4 - Strange Worlds",
+      "path": "/packs/strange-worlds.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Structure Borne Sound Metal Resonances And Textures",
+      "label": "Game Audio Bundle 4 - Structure Borne Sound Metal Resonances And Textures",
+      "path": "/packs/structure-borne-sound-metal-resonances-and-textures.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Stuart M5a1 Light Tank",
+      "label": "Game Audio Bundle 4 - Stuart M5a1 Light Tank",
+      "path": "/packs/stuart-m5a1-light-tank.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Stug 40",
+      "label": "Game Audio Bundle 4 - Stug 40",
+      "path": "/packs/stug-40.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Sub Sonic Bass Mini Library",
+      "label": "Game Audio Bundle 4 - Sub Sonic Bass Mini Library",
+      "path": "/packs/sub-sonic-bass-mini-library.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Submersion",
+      "label": "Game Audio Bundle 4 - Submersion",
+      "path": "/packs/submersion.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Subtext Drone Library Vol 1",
+      "label": "Game Audio Bundle 4 - Subtext Drone Library Vol 1",
+      "path": "/packs/subtext-drone-library-vol-1.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Subway",
+      "label": "Game Audio Bundle 4 - Subway",
+      "path": "/packs/subway.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Super Fx 8 And 16 Bit Video Game Sfx",
+      "label": "Game Audio Bundle 4 - Super Fx 8 And 16 Bit Video Game Sfx",
+      "path": "/packs/super-fx-8-and-16-bit-video-game-sfx.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Super Heroes Sound Design",
+      "label": "Game Audio Bundle 4 - Super Heroes Sound Design",
+      "path": "/packs/super-heroes-sound-design.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Supermarine Spitfire Mk Ix 1943",
+      "label": "Game Audio Bundle 4 - Supermarine Spitfire Mk Ix 1943",
+      "path": "/packs/supermarine-spitfire-mk-ix-1943.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Supermarine Spitfire Mk Xiv",
+      "label": "Game Audio Bundle 4 - Supermarine Spitfire Mk Xiv",
+      "path": "/packs/supermarine-spitfire-mk-xiv.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Surreal",
+      "label": "Game Audio Bundle 4 - Surreal",
+      "path": "/packs/surreal.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Surround A Room 51 Stereo Room Tones",
+      "label": "Game Audio Bundle 4 - Surround A Room 51 Stereo Room Tones",
+      "path": "/packs/surround-a-room-51-stereo-room-tones.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Surround At The Show 1 51 2",
+      "label": "Game Audio Bundle 4 - Surround At The Show 1 51 2",
+      "path": "/packs/surround-at-the-show-1-51-2.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Surround At The Show 2 51 Stereo",
+      "label": "Game Audio Bundle 4 - Surround At The Show 2 51 Stereo",
+      "path": "/packs/surround-at-the-show-2-51-stereo.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Surround In A Crowd 51",
+      "label": "Game Audio Bundle 4 - Surround In A Crowd 51",
+      "path": "/packs/surround-in-a-crowd-51.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Surround In The City 51",
+      "label": "Game Audio Bundle 4 - Surround In The City 51",
+      "path": "/packs/surround-in-the-city-51.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Surround In The Night 51 Stereo",
+      "label": "Game Audio Bundle 4 - Surround In The Night 51 Stereo",
+      "path": "/packs/surround-in-the-night-51-stereo.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Surround In The Park 51 Stereo",
+      "label": "Game Audio Bundle 4 - Surround In The Park 51 Stereo",
+      "path": "/packs/surround-in-the-park-51-stereo.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Surround The Rain 51 Stereo",
+      "label": "Game Audio Bundle 4 - Surround The Rain 51 Stereo",
+      "path": "/packs/surround-the-rain-51-stereo.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Suzuki Gsx R1000",
+      "label": "Game Audio Bundle 4 - Suzuki Gsx R1000",
+      "path": "/packs/suzuki-gsx-r1000.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Swap_Digital Screams",
+      "label": "Game Audio Bundle 4 - Swap_Digital Screams",
+      "path": "/packs/swap_digital-screams.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Synthassault",
+      "label": "Game Audio Bundle 4 - Synthassault",
+      "path": "/packs/synthassault.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Synthesized Moods",
+      "label": "Game Audio Bundle 4 - Synthesized Moods",
+      "path": "/packs/synthesized-moods.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Synthetic Liquid Textures",
+      "label": "Game Audio Bundle 4 - Synthetic Liquid Textures",
+      "path": "/packs/synthetic-liquid-textures.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - T 34 85 Russian World War Ii Tank",
+      "label": "Game Audio Bundle 4 - T 34 85 Russian World War Ii Tank",
+      "path": "/packs/t-34-85-russian-world-war-ii-tank.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Tanks And Jet",
+      "label": "Game Audio Bundle 4 - Tanks And Jet",
+      "path": "/packs/tanks-and-jet.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Tech Toys Electronics Pack 1",
+      "label": "Game Audio Bundle 4 - Tech Toys Electronics Pack 1",
+      "path": "/packs/tech-toys-electronics-pack-1.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Tennis Balls And Ambience",
+      "label": "Game Audio Bundle 4 - Tennis Balls And Ambience",
+      "path": "/packs/tennis-balls-and-ambience.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Tension",
+      "label": "Game Audio Bundle 4 - Tension",
+      "path": "/packs/tension.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Text And Dialogue Sfx Pack",
+      "label": "Game Audio Bundle 4 - Text And Dialogue Sfx Pack",
+      "path": "/packs/text-and-dialogue-sfx-pack.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Textrobot",
+      "label": "Game Audio Bundle 4 - Textrobot",
+      "path": "/packs/textrobot.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Thailand Sound Library By Faunethic",
+      "label": "Game Audio Bundle 4 - Thailand Sound Library By Faunethic",
+      "path": "/packs/thailand-sound-library-by-faunethic.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - This Library Sucks",
+      "label": "Game Audio Bundle 4 - This Library Sucks",
+      "path": "/packs/this-library-sucks.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Tiger Ii",
+      "label": "Game Audio Bundle 4 - Tiger Ii",
+      "path": "/packs/tiger-ii.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Tiny Transitions",
+      "label": "Game Audio Bundle 4 - Tiny Transitions",
+      "path": "/packs/tiny-transitions.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Titanium Cinematic Trailer Samples",
+      "label": "Game Audio Bundle 4 - Titanium Cinematic Trailer Samples",
+      "path": "/packs/titanium-cinematic-trailer-samples.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Toilet Flush",
+      "label": "Game Audio Bundle 4 - Toilet Flush",
+      "path": "/packs/toilet-flush.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Tools",
+      "label": "Game Audio Bundle 4 - Tools",
+      "path": "/packs/tools.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Tools And Wood",
+      "label": "Game Audio Bundle 4 - Tools And Wood",
+      "path": "/packs/tools-and-wood.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Town Winds",
+      "label": "Game Audio Bundle 4 - Town Winds",
+      "path": "/packs/town-winds.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Toyota",
+      "label": "Game Audio Bundle 4 - Toyota",
+      "path": "/packs/toyota.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Toys",
+      "label": "Game Audio Bundle 4 - Toys",
+      "path": "/packs/toys.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Tractor Case Ii Cx90",
+      "label": "Game Audio Bundle 4 - Tractor Case Ii Cx90",
+      "path": "/packs/tractor-case-ii-cx90.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Traffic X Buenos Aires",
+      "label": "Game Audio Bundle 4 - Traffic X Buenos Aires",
+      "path": "/packs/traffic-x-buenos-aires.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Trailer Alarms",
+      "label": "Game Audio Bundle 4 - Trailer Alarms",
+      "path": "/packs/trailer-alarms.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Trailer Booms",
+      "label": "Game Audio Bundle 4 - Trailer Booms",
+      "path": "/packs/trailer-booms.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Trailer Clocks",
+      "label": "Game Audio Bundle 4 - Trailer Clocks",
+      "path": "/packs/trailer-clocks.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Trailer Hits And Impacts",
+      "label": "Game Audio Bundle 4 - Trailer Hits And Impacts",
+      "path": "/packs/trailer-hits-and-impacts.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Trailer Pack",
+      "label": "Game Audio Bundle 4 - Trailer Pack",
+      "path": "/packs/trailer-pack.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Trailer Whooshes",
+      "label": "Game Audio Bundle 4 - Trailer Whooshes",
+      "path": "/packs/trailer-whooshes.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Trains",
+      "label": "Game Audio Bundle 4 - Trains",
+      "path": "/packs/trains.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Transitions",
+      "label": "Game Audio Bundle 4 - Transitions",
+      "path": "/packs/transitions.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Transmission Interference",
+      "label": "Game Audio Bundle 4 - Transmission Interference",
+      "path": "/packs/transmission-interference.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Trash",
+      "label": "Game Audio Bundle 4 - Trash",
+      "path": "/packs/trash.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Trawler Hundestedt Hotbulb 1977",
+      "label": "Game Audio Bundle 4 - Trawler Hundestedt Hotbulb 1977",
+      "path": "/packs/trawler-hundestedt-hotbulb-1977.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Tubular",
+      "label": "Game Audio Bundle 4 - Tubular",
+      "path": "/packs/tubular.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Tugboat Deutz Vm 145",
+      "label": "Game Audio Bundle 4 - Tugboat Deutz Vm 145",
+      "path": "/packs/tugboat-deutz-vm-145.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Tunturi Maxi Sound Effects Library",
+      "label": "Game Audio Bundle 4 - Tunturi Maxi Sound Effects Library",
+      "path": "/packs/tunturi-maxi-sound-effects-library.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Turkey Sound Library By Faunethic",
+      "label": "Game Audio Bundle 4 - Turkey Sound Library By Faunethic",
+      "path": "/packs/turkey-sound-library-by-faunethic.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Typewriters",
+      "label": "Game Audio Bundle 4 - Typewriters",
+      "path": "/packs/typewriters.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Ui Fx",
+      "label": "Game Audio Bundle 4 - Ui Fx",
+      "path": "/packs/ui-fx.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Ui Mechanical",
+      "label": "Game Audio Bundle 4 - Ui Mechanical",
+      "path": "/packs/ui-mechanical.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Ui Sounds Futuristic",
+      "label": "Game Audio Bundle 4 - Ui Sounds Futuristic",
+      "path": "/packs/ui-sounds-futuristic.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Ui Sounds Musical",
+      "label": "Game Audio Bundle 4 - Ui Sounds Musical",
+      "path": "/packs/ui-sounds-musical.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Ultimate Bare Feet Expansion",
+      "label": "Game Audio Bundle 4 - Ultimate Bare Feet Expansion",
+      "path": "/packs/ultimate-bare-feet-expansion.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Ultimate Cloth And Prop Collection",
+      "label": "Game Audio Bundle 4 - Ultimate Cloth And Prop Collection",
+      "path": "/packs/ultimate-cloth-and-prop-collection.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Ultimate Eats And Drinks",
+      "label": "Game Audio Bundle 4 - Ultimate Eats And Drinks",
+      "path": "/packs/ultimate-eats-and-drinks.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Ultimate Footstep Collection",
+      "label": "Game Audio Bundle 4 - Ultimate Footstep Collection",
+      "path": "/packs/ultimate-footstep-collection.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Ultimate Jersey Shore Vol 1",
+      "label": "Game Audio Bundle 4 - Ultimate Jersey Shore Vol 1",
+      "path": "/packs/ultimate-jersey-shore-vol-1.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Ultimate Trailer Sound Effects",
+      "label": "Game Audio Bundle 4 - Ultimate Trailer Sound Effects",
+      "path": "/packs/ultimate-trailer-sound-effects.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Underground Atmospheres",
+      "label": "Game Audio Bundle 4 - Underground Atmospheres",
+      "path": "/packs/underground-atmospheres.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Underwater Textures",
+      "label": "Game Audio Bundle 4 - Underwater Textures",
+      "path": "/packs/underwater-textures.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Unfathomed",
+      "label": "Game Audio Bundle 4 - Unfathomed",
+      "path": "/packs/unfathomed.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Unheard Sounds Electromagnetic Fields",
+      "label": "Game Audio Bundle 4 - Unheard Sounds Electromagnetic Fields",
+      "path": "/packs/unheard-sounds-electromagnetic-fields.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Universal Emotes",
+      "label": "Game Audio Bundle 4 - Universal Emotes",
+      "path": "/packs/universal-emotes.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Unsolved",
+      "label": "Game Audio Bundle 4 - Unsolved",
+      "path": "/packs/unsolved.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Uplifter Pack",
+      "label": "Game Audio Bundle 4 - Uplifter Pack",
+      "path": "/packs/uplifter-pack.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Ural 4320",
+      "label": "Game Audio Bundle 4 - Ural 4320",
+      "path": "/packs/ural-4320.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Ural Dnepr M 72 1944",
+      "label": "Game Audio Bundle 4 - Ural Dnepr M 72 1944",
+      "path": "/packs/ural-dnepr-m-72-1944.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Urban Berlin",
+      "label": "Game Audio Bundle 4 - Urban Berlin",
+      "path": "/packs/urban-berlin.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Urban Crows",
+      "label": "Game Audio Bundle 4 - Urban Crows",
+      "path": "/packs/urban-crows.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Urban Decay",
+      "label": "Game Audio Bundle 4 - Urban Decay",
+      "path": "/packs/urban-decay.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Urban Environments",
+      "label": "Game Audio Bundle 4 - Urban Environments",
+      "path": "/packs/urban-environments.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - User Interface",
+      "label": "Game Audio Bundle 4 - User Interface",
+      "path": "/packs/user-interface.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Vaeyan Iii",
+      "label": "Game Audio Bundle 4 - Vaeyan Iii",
+      "path": "/packs/vaeyan-iii.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Vaeyan Iv",
+      "label": "Game Audio Bundle 4 - Vaeyan Iv",
+      "path": "/packs/vaeyan-iv.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Variety Sound Effects",
+      "label": "Game Audio Bundle 4 - Variety Sound Effects",
+      "path": "/packs/variety-sound-effects.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Various Gun Foley and Handling",
+      "label": "Game Audio Bundle 4 - Various Gun Foley and Handling",
+      "path": "/packs/various-gun-foley-and-handling.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Vegecide!",
+      "label": "Game Audio Bundle 4 - Vegecide!",
+      "path": "/packs/vegecide!.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Vegetable Carnage",
+      "label": "Game Audio Bundle 4 - Vegetable Carnage",
+      "path": "/packs/vegetable-carnage.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Vegetable Murder Crush And Crunch",
+      "label": "Game Audio Bundle 4 - Vegetable Murder Crush And Crunch",
+      "path": "/packs/vegetable-murder-crush-and-crunch.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Vehicles Aviation",
+      "label": "Game Audio Bundle 4 - Vehicles Aviation",
+      "path": "/packs/vehicles-aviation.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Vehicles Boats 1 Ferry",
+      "label": "Game Audio Bundle 4 - Vehicles Boats 1 Ferry",
+      "path": "/packs/vehicles-boats-1-ferry.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Vehicles Car Sound Effects 1 Elements",
+      "label": "Game Audio Bundle 4 - Vehicles Car Sound Effects 1 Elements",
+      "path": "/packs/vehicles-car-sound-effects-1-elements.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Vehicles Freight Trains 1",
+      "label": "Game Audio Bundle 4 - Vehicles Freight Trains 1",
+      "path": "/packs/vehicles-freight-trains-1.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Vehicles Passenger Trains 1",
+      "label": "Game Audio Bundle 4 - Vehicles Passenger Trains 1",
+      "path": "/packs/vehicles-passenger-trains-1.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Vehicles Transit Trains",
+      "label": "Game Audio Bundle 4 - Vehicles Transit Trains",
+      "path": "/packs/vehicles-transit-trains.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Vibration",
+      "label": "Game Audio Bundle 4 - Vibration",
+      "path": "/packs/vibration.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Victor 1920s Adding Machine",
+      "label": "Game Audio Bundle 4 - Victor 1920s Adding Machine",
+      "path": "/packs/victor-1920s-adding-machine.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Victory Vegas Motorcycle",
+      "label": "Game Audio Bundle 4 - Victory Vegas Motorcycle",
+      "path": "/packs/victory-vegas-motorcycle.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Video Game Sfx Mega Pack",
+      "label": "Game Audio Bundle 4 - Video Game Sfx Mega Pack",
+      "path": "/packs/video-game-sfx-mega-pack.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Vintage Dot Matrix Printer",
+      "label": "Game Audio Bundle 4 - Vintage Dot Matrix Printer",
+      "path": "/packs/vintage-dot-matrix-printer.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Vintage Telephones",
+      "label": "Game Audio Bundle 4 - Vintage Telephones",
+      "path": "/packs/vintage-telephones.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Voice Pack One Emma",
+      "label": "Game Audio Bundle 4 - Voice Pack One Emma",
+      "path": "/packs/voice-pack-one-emma.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Voices Bodyboard",
+      "label": "Game Audio Bundle 4 - Voices Bodyboard",
+      "path": "/packs/voices-bodyboard.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Voices Flexatone",
+      "label": "Game Audio Bundle 4 - Voices Flexatone",
+      "path": "/packs/voices-flexatone.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Volkswagen",
+      "label": "Game Audio Bundle 4 - Volkswagen",
+      "path": "/packs/volkswagen.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Volvo",
+      "label": "Game Audio Bundle 4 - Volvo",
+      "path": "/packs/volvo.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Vuvuzela",
+      "label": "Game Audio Bundle 4 - Vuvuzela",
+      "path": "/packs/vuvuzela.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Vw Polo 2003",
+      "label": "Game Audio Bundle 4 - Vw Polo 2003",
+      "path": "/packs/vw-polo-2003.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Wakeywakey",
+      "label": "Game Audio Bundle 4 - Wakeywakey",
+      "path": "/packs/wakeywakey.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - War Zone Designed Explosions",
+      "label": "Game Audio Bundle 4 - War Zone Designed Explosions",
+      "path": "/packs/war-zone-designed-explosions.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Warfare Library",
+      "label": "Game Audio Bundle 4 - Warfare Library",
+      "path": "/packs/warfare-library.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Warrior Ifv Custom Vehicle Recording",
+      "label": "Game Audio Bundle 4 - Warrior Ifv Custom Vehicle Recording",
+      "path": "/packs/warrior-ifv-custom-vehicle-recording.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Water",
+      "label": "Game Audio Bundle 4 - Water",
+      "path": "/packs/water.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - We Are The People",
+      "label": "Game Audio Bundle 4 - We Are The People",
+      "path": "/packs/we-are-the-people.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Wellcraft Scarab 34",
+      "label": "Game Audio Bundle 4 - Wellcraft Scarab 34",
+      "path": "/packs/wellcraft-scarab-34.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Wendland Autumn",
+      "label": "Game Audio Bundle 4 - Wendland Autumn",
+      "path": "/packs/wendland-autumn.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - White Stuff",
+      "label": "Game Audio Bundle 4 - White Stuff",
+      "path": "/packs/white-stuff.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Whooshes",
+      "label": "Game Audio Bundle 4 - Whooshes",
+      "path": "/packs/whooshes.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Wilderness Crickets",
+      "label": "Game Audio Bundle 4 - Wilderness Crickets",
+      "path": "/packs/wilderness-crickets.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Winds",
+      "label": "Game Audio Bundle 4 - Winds",
+      "path": "/packs/winds.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Winter Textures Vol1",
+      "label": "Game Audio Bundle 4 - Winter Textures Vol1",
+      "path": "/packs/winter-textures-vol1.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Wood",
+      "label": "Game Audio Bundle 4 - Wood",
+      "path": "/packs/wood.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Wood Sound Effects",
+      "label": "Game Audio Bundle 4 - Wood Sound Effects",
+      "path": "/packs/wood-sound-effects.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Woodland Atmosphere",
+      "label": "Game Audio Bundle 4 - Woodland Atmosphere",
+      "path": "/packs/woodland-atmosphere.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Woodwork",
+      "label": "Game Audio Bundle 4 - Woodwork",
+      "path": "/packs/woodwork.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Yamaha",
+      "label": "Game Audio Bundle 4 - Yamaha",
+      "path": "/packs/yamaha.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - You Me And Debris",
+      "label": "Game Audio Bundle 4 - You Me And Debris",
+      "path": "/packs/you-me-and-debris.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Yvaine",
+      "label": "Game Audio Bundle 4 - Yvaine",
+      "path": "/packs/yvaine.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Zinc Mines",
+      "label": "Game Audio Bundle 4 - Zinc Mines",
+      "path": "/packs/zinc-mines.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 4 - Zwoosh",
+      "label": "Game Audio Bundle 4 - Zwoosh",
+      "path": "/packs/zwoosh.db",
+      "entity": "Playlist"
+    }
+  ],
+  "url": "https://github.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-4",
+  "manifest": "https://raw.githubusercontent.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-4/master/module.json",
+  "download": "https://github.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-4/releases/download/v1.1/v1.1.zip"
+}
